@@ -13,7 +13,7 @@ export const loginStyles = StyleSheet.create({
     backgroundColor: secondaryBg,
     borderRadius: 10,
     padding: 20,
-    elevation: 5,
+    elevation: 6,
   },
   logoContainer: {
     alignItems: "center",
